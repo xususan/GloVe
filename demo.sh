@@ -15,8 +15,8 @@ make
 #   rm text8.zip
 # fi
 
-# CORPUS=train_2m_glove.csv
-CORPUS=train_200k_glove.csv
+CORPUS=train_2m_glove.csv
+# CORPUS=train_200k_glove.csv
 VOCAB_FILE=vocab.txt
 COOCCURRENCE_FILE=cooccurrence.bin
 COOCCURRENCE_SHUF_FILE=cooccurrence.shuf.bin
